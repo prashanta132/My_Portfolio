@@ -1,8 +1,8 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center"/>
 </div>  
-
-<div align="center">I'm Prashanta, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
+  
+###<div align="center">I'm Prashanta, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
 - 🔭 I’m currently working on Swaminarayan Mandir Bhayandar Website  
