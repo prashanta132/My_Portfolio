@@ -7,10 +7,6 @@
 
 - 🔭 I’m currently working on Swaminarayan Mandir Bhayandar Website  
   
-
-- 🌱 I’m currently learning AWS and Kubernetes  
-  
-
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
